@@ -2,4 +2,5 @@
 // form access else.terget.[name of the input field].value
 // 2.controlled element :use individualField state for each input field
 // 3.controlled element :one object in a state holding all the input Fields value
-//4.
+// 4.use hoom to handle state and submitt error .example react hook from 
+// 5. reuseable component:
